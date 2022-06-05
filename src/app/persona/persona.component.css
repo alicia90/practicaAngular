@@ -1,0 +1,24 @@
+.ancho {
+  width: 300px;
+  margin: 0px 5px;
+}
+
+.mat-card > .mat-card-actions {
+  margin-left: 6px;
+}
+
+div.resultados {
+  margin: 20px;
+}
+table.mat-elevation-z8 {
+  width: 100%;
+}
+
+.mat-icon.mat-warm {
+  color: red;
+}
+
+
+[hidden] {
+  display: none;
+}
